@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">softServe</string>
+    <string name="button">Button</string>
+    <string name="documents">Documents</string>
+    <string name="mood_tracker">mood Tracker</string>
+    <string name="documentation">documentation</string>
+    <string name="resources">Resources</string>
+    <string name="scale">Scale</string>
 </resources>
