@@ -22,7 +22,7 @@ import androidx.appcompat.widget.Toolbar;
 import android.view.Menu;
 
 public class MainActivity extends AppCompatActivity {
-//noah
+//noahs new changes
     private AppBarConfiguration mAppBarConfiguration;
 
     @Override
