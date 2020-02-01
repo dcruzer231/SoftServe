@@ -14,4 +14,7 @@
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
     <string name="button">Button</string>
+    <string name="todo">TODO</string>
+    <string name="switch1">Switch</string>
+    <string name="line1switch">line1switch</string>
 </resources>

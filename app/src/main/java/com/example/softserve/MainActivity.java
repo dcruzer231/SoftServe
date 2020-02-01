@@ -64,6 +64,10 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("this is a test text");
     }
 
+    public void new_test(){
+
+    }
+
     @Override
     public boolean onSupportNavigateUp() {
         NavController navController = Navigation.findNavController(this, R.id.nav_host_fragment);
